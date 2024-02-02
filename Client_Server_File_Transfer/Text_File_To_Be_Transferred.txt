@@ -1,0 +1,1 @@
+This file is made to be transferred from client to the server using socket programming in C, for windows operating system.
